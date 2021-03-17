@@ -17,13 +17,22 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 text-align: center;
 font-size: 4rem;
 }
+
+.contenedor {
+    background: darkmagenta;
+    width: 50vw;
+    margin: auto;
+    height: 50vh;
+    border-radius: 50px;
+}
+
 p {
     font-size: 4rem;
-    display: relative;
-    background-color: blueviolet;
-    
-    border: solid ;
-    border-radius: 4px;
     text-align: center;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
     
 }
