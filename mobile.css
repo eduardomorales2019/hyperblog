@@ -1,0 +1,29 @@
+*{
+
+    padding: 0
+    margin: 0;
+    
+}
+
+html{
+    font-size: 62.5%;
+}
+body {
+    background-color: aquamarine;
+}
+h1 {
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+font-size: 4rem;
+}
+p {
+    font-size: 4rem;
+    display: relative;
+    background-color: blueviolet;
+    
+    border: solid ;
+    border-radius: 4px;
+    text-align: center;
+    
+}
