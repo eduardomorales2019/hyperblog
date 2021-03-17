@@ -43,4 +43,22 @@ p {
     height: 10vh;
     display: flex;
     justify-content: center;
+
+    
+}
+.contenedor2 {
+    background: darkmagenta;
+    width: 50vw;
+    margin: auto;
+    height: 50vh;
+    border-radius: 50px; 
+}
+
+h2{
+    font-size: 4rem;
+    text-align: center;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
